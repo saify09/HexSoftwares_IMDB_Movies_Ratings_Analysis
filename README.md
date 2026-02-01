@@ -314,7 +314,7 @@ This project is created for educational purposes as part of the Data Science Int
 
 ## 👤 Author
 
-**Data Science Intern**  
+**Saifuddin Muhammad Hanif**  
 Hex Softwares  
 Task 2 - Movie Ratings Analysis  
 February 2026
@@ -335,8 +335,7 @@ For questions or issues:
 1. Check the Jupyter Notebook comments
 2. Review the Power BI Dashboard Guide
 3. Consult the implementation plan
-4. Reach out to your internship supervisor
-
+4. Reach out to author at saifuddinmuhammadhanif@gmail.com
 ---
 
 **Happy Analyzing! 📊🎬**
